@@ -9,3 +9,6 @@ Cuando el tren pasa cerca de los nuevos vagones se detiene, muestra una ecuació
 
 IMPORTANTE: Se debe utilizar una lista enlazada y sus operaciones correspondientes para simular un tren, como el ordenamiento de vagones, la inserción y destrucción de los mismos
 
+
+![image](https://user-images.githubusercontent.com/83043304/120077207-9817ac80-c07f-11eb-8d24-8b068cec47f1.png)
+
